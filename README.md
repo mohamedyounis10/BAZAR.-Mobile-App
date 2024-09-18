@@ -1,6 +1,6 @@
 # BAZAR
 
-BAZAR is a mobile application built using Flutter, designed to create a seamless experience for book lovers. This app allows users to discover, buy, and manage their favorite books effortlessly. The project was developed for Telecom Egypt and leverages Firebase for authentication and data management.
+BAZAR is a mobile application built using Flutter, designed to create a seamless experience for book lovers. This app allows users to discover, buy, and manage their favorite books effortlessly. The project leverages Firebase for authentication and data management.
 
 ## Features
 
