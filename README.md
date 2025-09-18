@@ -18,8 +18,7 @@ BAZAR is a mobile application built using Flutter, designed to create a seamless
 ![Black and White Bold Simple Minimalist Payment Mobile App Presentation (1)](https://github.com/user-attachments/assets/e79e8e23-a34d-428e-be55-53c54b97a1f5)
 
 ## Live Demo
-[🎥 Watch Demo Video](https://github.com/user-attachments/assets/c38ebe03-5a57-4adb-a8f8-5b331c549169)
-
+[🎥 Watch Demo Video](https://github.com/user-attachments/assets/19539359-1fc6-4bfa-9661-497b44172610)
 
 ## Installation
 
