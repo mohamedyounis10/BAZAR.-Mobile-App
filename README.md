@@ -81,7 +81,3 @@ Special thanks to Telecom Egypt and Omima Mohamed for their support and guidance
 ---
 
 Feel free to reach out if you have any questions or feedback! Enjoy exploring BAZAR! 📚📱
-
----
-
-*Note*: Make sure to replace the placeholders like https://github.com/yourusername/BAZAR.git with your actual GitHub repository link.
